@@ -1,4 +1,4 @@
-## Hi there 👋
+IM NEWGEN THIS IS A WIP
 
 <!--
 **sl4shingutz/sl4shingutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
